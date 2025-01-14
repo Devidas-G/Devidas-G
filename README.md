@@ -1,12 +1,12 @@
 ### Hi there, I'm Devidas 👋
 
-## I'm a newbie
+## I'm a App developer
 
-- 🌱 I’m currently learning everything 🤣
+- The learning never ends
 - Got introduced to programming in 2016.
 - Currently pursuing Application development.
 - Started learning flutter and firebase in 2020.
-- ⚡ Fun fact: I love gardening and writing code.
+- I love gardening and writing code.
 
 ### Connect with me:
 
