@@ -35,4 +35,4 @@ Here are some ideas to get you started:
  ...
 -->
 
-[instagram]:https://instagram.com/dev__gaikwad
+[instagram]:https://www.instagram.com/dev_gaikwad___?igsh=MWJ1dHB5dGIzcmozOQ==
